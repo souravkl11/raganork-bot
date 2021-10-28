@@ -5,4 +5,4 @@ Installation
 `npm i raganork-bot`
 
 Single Package
-`"raganork-bot": "1.3.6"`
+`"raganork-bot": "x.x.x"`

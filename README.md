@@ -1,4 +1,4 @@
-# raganork-bot
+# Raganork bot [NPM](https://www.npmjs.com/package/raganork-bot)
 NPM package for all bots based on Whatsasena
 
 Installation
